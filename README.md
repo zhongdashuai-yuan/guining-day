@@ -74,7 +74,7 @@
 
 | 标题画面 | 序章 · 大河文明馆 |
 |---|---|
-| ![标题](screenshots/01_title.png) | ![序章](screenshots/02_prologue.png) |
+| ![标题](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/01_title.png) | ![序章](screenshots/02_prologue.png) |
 
 | 序章 · 记忆 03（江屿） | 第一关开场 · 潮生纪 |
 |---|---|
