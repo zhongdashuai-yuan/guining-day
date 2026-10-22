@@ -1,0 +1,7 @@
+﻿# 说明文档与截图之外的东西不进仓库
+*.7z
+*.zip
+*.exe
+*.pck
+.DS_Store
+Thumbs.db
