@@ -74,29 +74,29 @@
 
 | 标题画面 | 序章 · 大河文明馆 |
 |---|---|
-| ![标题](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/01_title.png) | ![序章](screenshots/02_prologue.png) |
+| ![标题](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/01_title.png) | ![序章](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/02_prologue.png) |
 
 | 序章 · 记忆 03（江屿） | 第一关开场 · 潮生纪 |
 |---|---|
-| ![江屿](screenshots/03_story_brother.png) | ![潮生纪开场](screenshots/04_intro_flood.png) |
+| ![江屿](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/03_story_brother.png) | ![潮生纪开场](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/04_intro_flood.png) |
 
 | 第二关开场 · 禾城纪 | 第三关开场 · 百工城 |
 |---|---|
-| ![禾城纪开场](screenshots/05_intro_wheat.png) | ![百工城开场](screenshots/06_intro_forge.png) |
+| ![禾城纪开场](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/05_intro_wheat.png) | ![百工城开场](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/06_intro_forge.png) |
 
 ### 实机画面
 
 | 第零关 · 清除区 | 第一关 · 潮生纪 |
 |---|---|
-| ![清除区](screenshots/07_level0_purge.png) | ![潮生纪](screenshots/08_level1_flood.png) |
+| ![清除区](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/07_level0_purge.png) | ![潮生纪](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/08_level1_flood.png) |
 
 | 第二关 · 禾城纪 | 第三关 · 百工城 |
 |---|---|
-| ![禾城纪](screenshots/09_level2_wheat.png) | ![百工城](screenshots/10_level3_forge.png) |
+| ![禾城纪](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/09_level2_wheat.png) | ![百工城](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/10_level3_forge.png) |
 
 | 第四关 · 天衡核心 |
 |---|
-| ![天衡核心](screenshots/11_level4_core.png) |
+| ![天衡核心](https://cdn.jsdelivr.net/gh/zhongdashuai-yuan/guining-day@main/screenshots/11_level4_core.png) |
 
 ---
 
